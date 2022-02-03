@@ -6,6 +6,11 @@
 ## Project
 This project is yet-another clone of Instagram
 
+## Alternatives / Market research
+| Research alternatives
+
+## Goals
+
 ## Technologies
 In our project we use **Laravel**, **VueJS**
 
@@ -30,7 +35,7 @@ We will have following pages:
 
 *Write your user stories here*
 
-## Sitemap
+## Sitemap, Page descriptions
 
 *Display sitemap here*
 
@@ -40,5 +45,8 @@ We will have following pages:
 ## Risks
 *What are the risks?*
 
-## Wireframes
+## Mockups, Wireframes
 *Put here images of your wireframes*
+
+## Future iterations
+*Write your future iterations*
